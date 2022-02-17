@@ -22,9 +22,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/artur-amaral-47050847/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link)](https://www.instagram.com/amaralstz/)
 
-
-- Thanks for visiting.
-
+## languages
+<img src=https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png width="40">  <img src=https://seeklogo.com/images/C/creative-assembly-logo-22E3931D08-seeklogo.com.png width="40"><img src=https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png width="40"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png width="40">
 ----------------------------------------------------------------------------------
 
 [![Paczitos GitHub stats](https://github-readme-stats.vercel.app/api?username=Paczitos)](https://github.com/Paczitos/github-readme-stats)
