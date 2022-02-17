@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**Paczitos/Paczitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## I'm Artur Amaral!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20">  I'm full stack beginner Developer!
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20">  I’m from Brazil.
+
+<img src=https://i.pinimg.com/originals/f5/a3/d8/f5a3d8e16677642b38608ca7b50de547.gif width="20"> I’m currently learning everything.
+
+<img src=https://acegif.com/wp-content/gifs/race-flag-6.gif width="20"> Goals for 2022: Finish my project and finish college
+
+ 
+
+## About me
+
+![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Paczitos)
+
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-amaral-47050847/)
+
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/amaralstz/)
+
+
+- Thanks for visiting.
+
+----------------------------------------------------------------------------------
+
+[![Paczitos GitHub stats](https://github-readme-stats.vercel.app/api?username=Paczitos)](https://github.com/Paczitos/github-readme-stats)
