@@ -25,8 +25,10 @@
 ## languages
 <p align="center"><br>
  <a href="https://github.com/paczitos">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,php,html,css" /><br><br>
-  <img src="https://skillicons.dev/icons?i=arduino,postgres,postman,github,git" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,php,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=arduino,postgres,postman,github,git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,next" /><br><br>
+  <img src="https://skillicons.dev/icons?i=jest" />
   </a>
 </p>
 
