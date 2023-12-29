@@ -2,7 +2,7 @@
 
  
 
-## I'm Artur Amaral!
+## I'm Artur Amaral.
 
 
 
