@@ -23,7 +23,13 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link)](https://www.instagram.com/amaralstz/)
 
 ## languages
-<img src=https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png width="40">  <img src=https://seeklogo.com/images/C/creative-assembly-logo-22E3931D08-seeklogo.com.png width="40"><img src=https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png width="40"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png width="40">
+<p align="center"><br>
+ <a href="https://github.com/paczitos">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,php,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=arduino,postgres,postman,github,git" />
+  </a>
+</p>
+
 ----------------------------------------------------------------------------------
 
 [![Paczitos GitHub stats](https://github-readme-stats.vercel.app/api?username=Paczitos)](https://github.com/Paczitos/github-readme-stats)
